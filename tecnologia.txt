@@ -1,0 +1,7 @@
+__________LISTA DE TECNOLOGIAS QUE UTILIZAREMOS______
+
+- Node.js: para começar, precisamos dar logica ao nosso aplicativo, para isso utilizaremos o html, a estrutura do aplicativo, o css,
+ a parte visual do nosso aplicativo e o script, a lógica principal do nosso programa, o node.js é ideal para aplicativos de delivery
+  devido à sua natureza assíncrona (gerenciamento de múltiplos pedidos e atualizações de status em tempo real).
+
+-
