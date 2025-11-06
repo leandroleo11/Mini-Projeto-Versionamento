@@ -1,0 +1,19 @@
+__________LISTA DE TECNOLOGIAS QUE UTILIZAREMOS______
+
+- Node.js: para começar, precisamos dar logica ao nosso aplicativo, para isso utilizaremos o html, a estrutura do aplicativo, o css,
+ a parte visual do nosso aplicativo e o script, a lógica principal do nosso programa, o node.js é ideal para aplicativos de delivery
+  devido à sua natureza assíncrona (gerenciamento de múltiplos pedidos e atualizações de status em tempo real).
+
+- frontend (interface do usuário), o backend (servidor e lógica de negócios) 
+e serviços de infraestrutura e integração (banco de dados, mapas, pagamentos, etc.). 
+
+- SQL: um banco de dados relacional é ideal para armazenar dados de usuários, restaurantes, cardápios e histórico de pedidos, 
+onde a consistência dos dados é crucial.
+
+- Google Maps API ou Mapbox: Para localização de usuários, restaurantes e entregadores, rastreamento de rotas e otimização de entregas.
+
+- Controle de Versão: Git e plataformas como GitHub/GitLab/Bitbucket.
+
+-A tecnologia de alimentos é a aplicação de conhecimentos científicos para o preparo, processamento, conservação, embalagem 
+e distribuição de alimentos, desde a matéria-prima até o consumidor.
+
