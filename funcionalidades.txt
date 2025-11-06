@@ -1,0 +1,9 @@
+____________________BASE DAS FUNCIONALIDADES DO APP DE COMIDA____________________ 
+
+- As funcioladidades base que o aplicativo de comida deve possuir deve ser as interações de compras, 
+ver comidas com preços acessiveis no local próximo, perfil, e até a opção de pesquisar o que deseja consumir.
+
+suas funcionalidades no geral:
+opção de login com email e senha, opção de pesquisa, sicronização com gps, acesso a notificações, opção de comprar e fazer transferencia
+e criação de perfil para conta de comprador ou vendedor.
+
